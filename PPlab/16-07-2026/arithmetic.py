@@ -1,0 +1,12 @@
+k=int(input('Enter First Integer'))
+j=int(input('Enter Second Integer'))
+print(k)
+print(j)
+print('addition :',k+j)
+print('subraction:',k-j)
+print('multiplication:',k*j)
+print('division:',k/j)
+print('remainder:',k%j)
+print('quotient value:',k//j)
+print(f"power {k**j}")
+
